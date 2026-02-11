@@ -1,5 +1,5 @@
 # Circles Binary Classification
-Author:Sneha pandey
+Author:Kabina giri
 
 ### Assignment Overview
 This repository contains the solution for the **Binary Classification with Neural Networks (Circles Dataset)** assignment.
